@@ -1,6 +1,5 @@
 node_modules
 .eslintrc.js
-
-package.js
-package-lock.js
+package.json
+package-lock.json
 yarn.lock
